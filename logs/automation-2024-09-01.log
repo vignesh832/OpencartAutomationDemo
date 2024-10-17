@@ -1,0 +1,173 @@
+15:15:34.369 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.376 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.379 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.379 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.383 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.383 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.394 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+15:15:34.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+15:15:34.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:15:34.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:15:34.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.429 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.429 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.431 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.438 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+15:15:34.442 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+15:15:34.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:15:34.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:15:34.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/vk/c8xvglh1045_fw78fj_v46tm010l3j/T/testng-eclipse-1321981036/testng-customsuite.xml
+
+15:15:34.474 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+15:15:41.725 [main] INFO  testCases.AccRegTest - Driver initiated!
+15:15:41.849 [main] INFO  testCases.AccRegTest - Test Started!
+15:15:45.383 [main] INFO  testCases.AccRegTest - page load completed!
+15:15:53.941 [main] INFO  testCases.AccRegTest - proceeding to validation!
+15:15:53.952 [main] INFO  testCases.AccRegTest - test completed!
+15:15:54.311 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6d303498: 71 ms
+15:15:54.312 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6ba7383d: 0 ms
+15:15:54.323 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@56913163: 10 ms
+15:15:54.332 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ce53f6a: 8 ms
+15:15:54.337 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1daf3b44: 5 ms
+15:15:54.338 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7fd8c559: 0 ms
+18:04:18.852 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:04:19.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
+18:05:48.185 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:05:48.688 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
+18:05:57.136 [main] INFO  testCases.AccRegTest - Driver initiated!
+18:05:57.279 [main] INFO  testCases.AccRegTest - Test Started!
+18:06:00.871 [main] INFO  testCases.AccRegTest - page load completed!
+18:06:08.044 [main] INFO  testCases.AccRegTest - proceeding to validation!
+18:06:08.058 [main] INFO  testCases.AccRegTest - test completed!
+18:06:48.165 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:06:48.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
+18:06:55.919 [main] INFO  testCases.AccRegTest - Driver initiated!
+18:06:56.039 [main] INFO  testCases.AccRegTest - Test Started!
+18:06:59.497 [main] INFO  testCases.AccRegTest - page load completed!
+18:07:08.844 [main] INFO  testCases.AccRegTest - proceeding to validation!
+18:07:08.854 [main] INFO  testCases.AccRegTest - test completed!
+18:07:20.387 [main] INFO  testCases.AccRegTest - Driver initiated!
+18:07:20.415 [main] INFO  testCases.AccRegTest - Test Started!
+18:07:21.388 [main] INFO  testCases.AccRegTest - page load completed!
+18:07:23.344 [main] INFO  testCases.AccRegTest - proceeding to validation!
+18:07:23.353 [main] INFO  testCases.AccRegTest - test completed!
+18:07:46.751 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:07:47.222 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
+18:07:55.404 [main] INFO  testCases.AccRegTest - Driver initiated!
+18:07:55.535 [main] INFO  testCases.AccRegTest - Test Started!
+18:07:59.289 [main] INFO  testCases.AccRegTest - page load completed!
+18:08:07.694 [main] INFO  testCases.AccRegTest - proceeding to validation!
+18:08:07.703 [main] INFO  testCases.AccRegTest - test completed!
+18:08:11.650 [main] INFO  testCases.AccRegTest - Driver initiated!
+18:08:11.672 [main] INFO  testCases.AccRegTest - Test Started!
+18:08:12.562 [main] INFO  testCases.AccRegTest - page load completed!
+18:08:14.454 [main] INFO  testCases.AccRegTest - proceeding to validation!
+18:08:14.462 [main] INFO  testCases.AccRegTest - test completed!
+18:09:13.736 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:09:14.231 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
+18:09:18.430 [TestNG-tests-2] INFO  testCases.AccRegTest - Driver initiated!
+18:09:18.524 [TestNG-tests-2] INFO  testCases.AccRegTest - Test Started!
+18:09:19.571 [TestNG-tests-2] INFO  testCases.AccRegTest - page load completed!
+18:09:21.325 [TestNG-tests-1] INFO  testCases.AccRegTest - Driver initiated!
+18:09:21.432 [TestNG-tests-1] INFO  testCases.AccRegTest - Test Started!
+18:09:22.064 [TestNG-tests-2] INFO  testCases.AccRegTest - proceeding to validation!
+18:09:22.073 [TestNG-tests-2] INFO  testCases.AccRegTest - test completed!
+18:09:25.006 [TestNG-tests-1] INFO  testCases.AccRegTest - page load completed!
+18:09:33.971 [TestNG-tests-1] INFO  testCases.AccRegTest - proceeding to validation!
+18:09:33.980 [TestNG-tests-1] INFO  testCases.AccRegTest - test completed!
+18:23:09.086 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/var/folders/vk/c8xvglh1045_fw78fj_v46tm010l3j/T/testng-eclipse-140767075/testng-customsuite.xml"
+18:23:09.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.457 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.457 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.469 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+18:23:09.495 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+18:23:09.501 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:23:09.503 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:23:09.505 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.505 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.508 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.508 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.510 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.510 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.512 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.512 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.516 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+18:23:09.518 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:23:09.521 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.521 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.521 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:09.521 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:09.528 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/vk/c8xvglh1045_fw78fj_v46tm010l3j/T/testng-eclipse-140767075/testng-customsuite.xml
+
+18:23:09.554 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+18:23:09.773 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@59221b97: 75 ms
+18:23:09.788 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@31198ceb: 15 ms
+18:23:09.813 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@27f0ad19: 24 ms
+18:23:09.828 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@77e2a6e2: 15 ms
+18:23:09.844 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5bf61e67: 16 ms
+18:23:09.844 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2c1dc8e: 0 ms
+18:23:30.381 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:23:30.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
+18:23:35.831 [TestNG-tests-2] INFO  testCases.AccRegTest - Driver initiated!
+18:23:35.899 [TestNG-tests-2] INFO  testCases.AccRegTest - Test Started!
+18:23:35.956 [TestNG-tests-2] INFO  testCases.AccRegTest - test completed!
+18:23:38.413 [TestNG-tests-1] INFO  testCases.AccRegTest - Driver initiated!
+18:23:38.512 [TestNG-tests-1] INFO  testCases.AccRegTest - Test Started!
+18:23:38.535 [TestNG-tests-1] INFO  testCases.AccRegTest - test completed!
+18:24:21.338 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:24:21.800 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
+18:24:26.251 [TestNG-tests-2] INFO  testCases.AccRegTest - Driver initiated!
+18:24:26.326 [TestNG-tests-2] INFO  testCases.AccRegTest - Test Started!
+18:24:26.362 [TestNG-tests-2] INFO  testCases.AccRegTest - test completed!
+18:24:28.939 [TestNG-tests-1] INFO  testCases.AccRegTest - Driver initiated!
+18:24:29.046 [TestNG-tests-1] INFO  testCases.AccRegTest - Test Started!
+18:24:29.064 [TestNG-tests-1] INFO  testCases.AccRegTest - test completed!
+18:26:46.839 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:26:47.303 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
+18:26:51.656 [TestNG-tests-2] INFO  testCases.AccRegTest - Driver initiated!
+18:26:51.705 [TestNG-tests-2] INFO  testCases.AccRegTest - Test Started!
+18:26:51.745 [TestNG-tests-2] INFO  testCases.AccRegTest - test completed!
+18:26:54.416 [TestNG-tests-1] INFO  testCases.AccRegTest - Driver initiated!
+18:26:54.512 [TestNG-tests-1] INFO  testCases.AccRegTest - Test Started!
+18:26:54.531 [TestNG-tests-1] INFO  testCases.AccRegTest - test completed!
+18:29:14.026 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/gvig/eclipse-workspace/Opencart/testng.xml"
+18:29:14.499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/gvig/eclipse-workspace/Opencart/testng.xml
+
